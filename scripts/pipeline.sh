@@ -104,7 +104,7 @@ do
     
 done
 
-echo "Fin. Un saludo, Tomás."
+echo "Fin. Un saludo, Tomás :)"
 
 
 
